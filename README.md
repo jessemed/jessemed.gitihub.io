@@ -1,5 +1,5 @@
 # Portfolio
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por Jessé Medeiros Lima enquanto estudava na Trybe.
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por Jessé Medeiros Lima enquanto estudante na Trybe.
 
 "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
 
